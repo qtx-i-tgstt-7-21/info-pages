@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qtx-i-tgstt-7-21.github.io/info-pages/sitemap.xml
